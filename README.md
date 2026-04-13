@@ -28,7 +28,7 @@ By removing reliance on centralized systems, this project ensures greater transp
 ---
 
 ## 🔗 Deployed Smart Contract
-
+https://stellar.expert/explorer/testnet/contract/CCSRIVBUXXKRNJ743TZZCOYKJCEIE6RZ2XUOOD2AYZWRDYME7V57HETO
 **Contract Address:**
 `CCSRIVBUXXKRNJ743TZZCOYKJCEIE6RZ2XUOOD2AYZWRDYME7V57HETO`
 
